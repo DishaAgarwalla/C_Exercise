@@ -9,3 +9,4 @@ int main(){
 	printf("percentage of 5 subject is : %f", p);
 	return 0;
 }
+
