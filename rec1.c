@@ -19,3 +19,4 @@ printf("print factor is %d",r);
 
 getch();
 }
+
