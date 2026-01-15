@@ -19,3 +19,4 @@ void traverse(int a[],int lb,int ub)
             break;
 }
 
+
