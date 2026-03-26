@@ -12,7 +12,7 @@ void create(int a[],int *n)
 void traverse(int a[],int lb,int ub)
 {
     int i;
-    printf("Content of Array is:\n");
+    printf("Content of Array is:\n")
     for(i=lb;i<=ub;i++)
         printf("%d\t",a[i]);
 }
